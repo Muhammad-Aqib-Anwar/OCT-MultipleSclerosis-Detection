@@ -1,6 +1,6 @@
 # Deep Learning Framework Leveraging Graph-Based Retinal Layers Segmentation in Volumetric OCT with Custom CNN for Multiple Sclerosis Detection
 
-<img src="Images/Block Diagram.pdf" alt="Proposed Framework" width="500">
+![](Images/Block Diagram.pd)
 
 ## 📌 Overview
 
