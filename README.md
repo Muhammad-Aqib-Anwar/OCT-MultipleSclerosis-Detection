@@ -126,7 +126,7 @@ training:
   early_stopping_patience: ""
 
 evaluation:
-  metrics: ["acc", "auc", "f1_score", "sens", "spec"]
+  metrics: ["acc", "auc", "f1_score", "sens", "spec", "AUC"]
   save_confusion_matrix: 
 
 aggregation:
@@ -138,7 +138,7 @@ aggregation:
 If you are using this project in your research or project, please cite it as follows:
 
 ```bibtex
-@article{muhammad2025,
+@article{muhammad2026,
   title={},
   author={},
   journal={},
