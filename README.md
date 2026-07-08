@@ -134,7 +134,17 @@ aggregation:
   tie_break: ""     # or "prefer_Control"
 ```
 ---
-## 5) Citing This Work
+## 5) 📊 Key Findings
+
+- ✅ We investigated macula centered OCT frames of retina for early detection of MS
+- ✅ We proposed a graph-based automatic segmentation approach for identifying seven retinal layers from OCT
+scans
+- ✅ Proposed custom CNN model leveraged segmented retinal layer to achieve 94% accuracy outperforming SOTA models
+while utilizing fewer trainable parameters
+- ✅ Together, Grad-CAM visual explanation and statistically significant retinal layers thickness improves the explainability
+of proposed method
+
+## 6) Citing This Work
 If you are using this project in your research or project, please cite it as follows:
 
 ```bibtex
