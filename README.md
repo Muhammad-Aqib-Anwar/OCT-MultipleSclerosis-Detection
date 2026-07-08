@@ -1,6 +1,6 @@
 # Deep Learning Framework Leveraging Graph-Based Retinal Layers Segmentation in Volumetric OCT with Custom CNN for Multiple Sclerosis Detection
 
-[Propose Framework](https://github.com/user-attachments/files/29804784/Block.Diagram.v3.pdf)
+<img src="Images/Block Diagram.pdf">
 
 ## 📌 Overview
 
@@ -16,7 +16,7 @@ Pipeline:
 
 ---
 
-## 1) Dataset
+## 1) Dataset 
 
 Public dataset link (Data resource for Multiple Sclerosis and Healthy Controls):  
 **➡️ DATASET URL:** `<http://iacl.jhu.edu/Resources>`
