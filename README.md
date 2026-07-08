@@ -19,7 +19,7 @@ Pipeline:
 ## 1) Dataset 
 
 Public dataset link (Data resource for Multiple Sclerosis and Healthy Controls):  
-**➡️ DATASET URL:** `<http://iacl.jhu.edu/Resources>`
+**➡️ DATASET URL:** <http://iacl.jhu.edu/Resources>
 
 Download to `data/raw/`. Ensure compliance with the dataset’s license/terms.
 
